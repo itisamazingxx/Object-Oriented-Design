@@ -1,8 +1,6 @@
 package module4.book;
 
-import com.google.common.base.Predicate;
-
-import module4.book.util.IBookPredicate;
+import java.util.function.Predicate;
 
 /**
  * This interface represents all the operations to be supported by a list of books

@@ -1,7 +1,5 @@
 package module4.book;
 
-import java.util.Comparator;
-
 /**
  * This class represents a book. A book has a title, an author, a year
  * of publication and a price

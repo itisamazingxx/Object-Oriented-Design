@@ -1,8 +1,6 @@
 package module4.book;
 
-import com.google.common.base.Predicate;
-
-import module4.book.util.IBookPredicate;
+import java.util.function.Predicate;
 
 public class ElementNode implements IListOfBooks{
 
@@ -74,6 +72,5 @@ public class ElementNode implements IListOfBooks{
             return this.next.getList(predicate);
         }
     }
-
 
 }

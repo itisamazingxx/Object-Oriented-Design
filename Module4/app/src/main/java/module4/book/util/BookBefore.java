@@ -1,6 +1,7 @@
 package module4.book.util;
 
-import com.google.common.base.Predicate;
+
+import java.util.function.Predicate;
 
 import module4.book.Book;
 
@@ -17,10 +18,4 @@ public class BookBefore implements Predicate<Book>{
         return b.getYear() < year;
     }
 
-    @Override
-    public boolean apply(Book input) {
-        // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'apply'");
-    }
-    
 }

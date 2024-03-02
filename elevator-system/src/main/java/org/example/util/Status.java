@@ -1,2 +1,4 @@
-package org.example.util;public class Status {
+package org.example.util;
+public enum Status {
+    UP, DOWN, IDLE
 }

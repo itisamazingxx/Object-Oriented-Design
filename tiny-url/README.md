@@ -7,7 +7,7 @@ CREATE TABLE short_urls (
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 ```
-![jpg/SQL-table-example.jpg]
+!(jpg/SQL-table-example.jpg)
 
 ### How to transfer long url to short url?
 1. Random Generation + Database Deduplication (随机生成 + 数据库去重)

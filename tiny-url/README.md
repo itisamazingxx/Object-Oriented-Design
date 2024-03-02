@@ -7,7 +7,7 @@ CREATE TABLE short_urls (
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 ```
-!(jpg/SQL-table-example.jpg)
+![SQL Table Example](https://github.com/itisamazingxx/Object-Oriented-Design/blob/19f285dc0aea5a722599e862d8547ac15959fd6b/tiny-url/jpg/SQL-table-example.jpg)
 
 ### How to transfer long url to short url?
 1. Random Generation + Database Deduplication (随机生成 + 数据库去重)

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2c4531c6-9d3f-41de-93a7-73c0cc206bfe" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module1/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module1/example.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module1/example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module1/person/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module1/person/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module1/person/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module1/person/app/src/main/java/person/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module1/person/app/src/main/java/person/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module1/person/app/src/main/java/person/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module1/person/app/src/test/java/person/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module1/person/app/src/test/java/person/PersonTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module1/person/app/src/test/java/person/ToStingTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module1/person/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module1/person/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module1/person/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module1/person/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module1/person/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2/Book/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module3/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2/Book/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module3/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2/Book/app/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module2/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2/Book/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2/Book/app/src/main/java/book/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2/Book/app/src/main/java/book/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2/Book/app/src/main/java/book/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2/Book/app/src/main/java/book/TypeOfBook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2/Book/app/src/test/java/book/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2/Book/app/src/test/java/book/BookTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2/Book/app/src/test/java/book/PersonTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2/Book/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2/Book/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2/Book/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2/Book/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2/Book/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module4/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module4/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module3/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module3/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module3/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/app/src/main/java/Module3/AbstractShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module3/app/src/main/java/Module3/AbstractShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/app/src/main/java/Module3/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module3/app/src/main/java/Module3/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/app/src/main/java/Module3/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module3/app/src/main/java/Module3/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/app/src/main/java/Module3/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module3/app/src/main/java/Module3/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/app/src/main/java/Module3/Point2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module3/app/src/main/java/Module3/Point2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/app/src/main/java/Module3/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module3/app/src/main/java/Module3/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/app/src/main/java/Module3/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module3/app/src/main/java/Module3/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/app/src/main/java/Module3/TypeOfBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module3/app/src/main/java/Module3/TypeOfBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/app/src/test/java/Module3/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module3/app/src/test/java/Module3/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/app/src/test/java/Module3/ShapeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module3/app/src/test/java/Module3/ShapeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module3/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module3/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module3/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module3/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module3/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module4/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module4/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module4/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module4/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module4/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module4/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module4/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module4/app/src/main/java/module4/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module4/app/src/main/java/module4/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module4/app/src/main/java/module4/CalendarEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module4/app/src/main/java/module4/CalendarEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module4/app/src/main/java/module4/book/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module4/app/src/main/java/module4/book/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module4/app/src/main/java/module4/book/ElementNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module4/app/src/main/java/module4/book/ElementNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module4/app/src/main/java/module4/book/EmptyNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module4/app/src/main/java/module4/book/EmptyNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module4/app/src/main/java/module4/book/IListOfBooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module4/app/src/main/java/module4/book/IListOfBooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module4/app/src/main/java/module4/book/util/BookBefore.java" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module4/app/src/main/java/module4/book/util/BookBefore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module4/app/src/main/java/module4/book/util/BookCmpByYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module4/app/src/main/java/module4/book/util/BookCmpByYear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module4/app/src/main/java/module4/book/util/BookWithAuthor.java" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module4/app/src/main/java/module4/book/util/BookWithAuthor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module4/app/src/main/java/module4/book/util/IBookPredicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module4/app/src/main/java/module4/book/util/IBookPredicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module4/app/src/main/java/module4/pactice/Character.java" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module4/app/src/main/java/module4/pactice/Character.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module4/app/src/main/java/module4/pactice/Warrior.java" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module4/app/src/main/java/module4/pactice/Warrior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module4/app/src/test/java/module4/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module4/app/src/test/java/module4/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module4/app/src/test/java/module4/ListOfBookTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module4/app/src/test/java/module4/ListOfBookTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module4/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module4/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module4/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module4/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module4/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module4/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module4/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module4/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module4/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module4/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-food-rating-system/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/design-food-rating-system/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-food-rating-system/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/design-food-rating-system/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-food-rating-system/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/design-food-rating-system/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-food-rating-system/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/design-food-rating-system/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-food-rating-system/design-food-rating-system.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/design-food-rating-system/design-food-rating-system.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-food-rating-system/src/FoodRating.java" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/design-food-rating-system/src/FoodRating.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-food-rating-system/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/design-food-rating-system/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-text-editor/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/design-text-editor/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-text-editor/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/design-text-editor/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-text-editor/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/design-text-editor/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-text-editor/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/design-text-editor/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-text-editor/design-text-editor.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/design-text-editor/design-text-editor.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-text-editor/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/design-text-editor/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-text-editor/src/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/design-text-editor/src/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-text-editor/src/TextEditor.java" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/design-text-editor/src/TextEditor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-twitter/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/design-twitter/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-twitter/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/design-twitter/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-twitter/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/design-twitter/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-twitter/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/design-twitter/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-twitter/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/design-twitter/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-twitter/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/design-twitter/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-twitter/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/design-twitter/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-twitter/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/design-twitter/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-twitter/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/design-twitter/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-twitter/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/design-twitter/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-twitter/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/design-twitter/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-twitter/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/design-twitter/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-twitter/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/design-twitter/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-twitter/src/main/java/Tweet.java" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/design-twitter/src/main/java/Tweet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-twitter/src/main/java/Twitter.java" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/design-twitter/src/main/java/Twitter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-twitter/src/main/java/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/design-twitter/src/main/java/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-twitter/src/test/java/TweetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/design-twitter/src/test/java/TweetTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-twitter/src/test/java/TwitterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/design-twitter/src/test/java/TwitterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-twitter/src/test/java/UserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/design-twitter/src/test/java/UserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elevator-system/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/elevator-system/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elevator-system/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/elevator-system/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elevator-system/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/elevator-system/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elevator-system/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/elevator-system/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elevator-system/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/elevator-system/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elevator-system/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/elevator-system/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elevator-system/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/elevator-system/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elevator-system/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/elevator-system/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elevator-system/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/elevator-system/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elevator-system/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/elevator-system/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elevator-system/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/elevator-system/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elevator-system/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/elevator-system/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elevator-system/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/elevator-system/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elevator-system/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/elevator-system/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elevator-system/src/main/java/org/example/ElevatorSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/elevator-system/src/main/java/org/example/ElevatorSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elevator-system/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/elevator-system/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elevator-system/src/main/java/org/example/elevator/Elevator.java" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/elevator-system/src/main/java/org/example/elevator/Elevator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elevator-system/src/main/java/org/example/request/ExternalRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/elevator-system/src/main/java/org/example/request/ExternalRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elevator-system/src/main/java/org/example/request/InternalRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/elevator-system/src/main/java/org/example/request/InternalRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elevator-system/src/main/java/org/example/request/Request.java" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/elevator-system/src/main/java/org/example/request/Request.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elevator-system/src/main/java/org/example/strategy/PeakHourStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/elevator-system/src/main/java/org/example/strategy/PeakHourStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elevator-system/src/main/java/org/example/strategy/Strategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/elevator-system/src/main/java/org/example/strategy/Strategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elevator-system/src/main/java/org/example/user/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/elevator-system/src/main/java/org/example/user/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elevator-system/src/main/java/org/example/util/Direction.java" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/elevator-system/src/main/java/org/example/util/Direction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elevator-system/src/main/java/org/example/util/Status.java" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/elevator-system/src/main/java/org/example/util/Status.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/app/src/main/java/recursive/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/app/src/main/java/recursive/BalancedParenthesis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/app/src/main/java/recursive/BinaryNumConvert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/app/src/main/java/recursive/BinarySearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/app/src/main/java/recursive/CountFactor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/app/src/main/java/recursive/Fibonacci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/app/src/main/java/recursive/LinkedListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/app/src/main/java/recursive/Pow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/app/src/main/java/recursive/PowerOfNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/app/src/main/java/recursive/SearchValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/app/src/main/java/recursive/StringPattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/app/src/main/java/recursive/StringRemovePunctuation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/app/src/test/java/recursive/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/app/src/test/java/recursive/BalancedParenthesisTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/app/src/test/java/recursive/BinaryNumConvertTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/app/src/test/java/recursive/BinarySearchTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/app/src/test/java/recursive/CountFactorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/app/src/test/java/recursive/FibonacciTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/app/src/test/java/recursive/LinkedListNodeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/app/src/test/java/recursive/MergeLinkedListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/app/src/test/java/recursive/PowTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/app/src/test/java/recursive/PowerOfFourTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/app/src/test/java/recursive/RemoveNodeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/app/src/test/java/recursive/SearchValueTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/app/src/test/java/recursive/StringPatternTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/app/src/test/java/recursive/StringRemovePunctuationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tic-tac-toe/TicTacToe.java" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/tic-tac-toe/TicTacToe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiny-url/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/tiny-url/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiny-url/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/tiny-url/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiny-url/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/tiny-url/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiny-url/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/tiny-url/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiny-url/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/tiny-url/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiny-url/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/tiny-url/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiny-url/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/tiny-url/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiny-url/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/tiny-url/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiny-url/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/tiny-url/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiny-url/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/tiny-url/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiny-url/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/tiny-url/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiny-url/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/tiny-url/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiny-url/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/tiny-url/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiny-url/jpg/SQL-table-example.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/tiny-url/jpg/SQL-table-example.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiny-url/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/tiny-url/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiny-url/src/main/java/org/example/TinyUrl.java" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/tiny-url/src/main/java/org/example/TinyUrl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiny-url/src/test/java/org/example/TinyUrlTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/tiny-url/src/test/java/org/example/TinyUrlTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2dIXQbwjGDzkT44K9AaJf7sW1re" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/beauwen/Desktop/Object-Oriented-Design",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lecture-note/Module2" />
+      <recent name="$PROJECT_DIR$/OO-design-question" />
+      <recent name="$PROJECT_DIR$/lecture-note" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c4531c6-9d3f-41de-93a7-73c0cc206bfe" name="Changes" comment="" />
+      <created>1709696552889</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709696552889</updated>
+      <workItem from="1709696559913" duration="112000" />
+      <workItem from="1709696724336" duration="22210000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

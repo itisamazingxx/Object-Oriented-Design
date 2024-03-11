@@ -1,7 +1,6 @@
 """
 This file illustrates how compound data is represented in python
 """
-
 class Person:
     def __init__(self, firstName, lastName, yearOfBirth):
         self.firstName = firstName

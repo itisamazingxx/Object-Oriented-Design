@@ -63,7 +63,6 @@ class D {
     public void depend1(Interface1 i) {
         i.operation1();
     }
-
     public void depend4(Interface3 i) {
         i.operation4();
     }

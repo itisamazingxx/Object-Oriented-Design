@@ -1,5 +1,30 @@
 # Design Pattern
 
+### UML REVIEW
+1. Dependency
+```Mermaid
+
+```
+
+2. Aggregation: 表示的是整体和部分的关系
+
+```Mermaid
+classDiagram
+class Computer
+Computer: -Mouse mouse
+Computer: -Monitor monitor
+Computer: -setMonitor(monitor)
+Computer: -setMouse(mouse)
+
+class Monitor
+
+Computer o-- Monitor
+
+class Mouse
+
+Computer o-- Mouse
+```
+
 ## 7 Principles of Design Patttern
 
 1. 单一职责：每一个类只应该负责**一项**职责
@@ -20,7 +45,10 @@ class Vehicle {
 ```
 
 2. **Interface Segregation Principle** 接口隔离原则
+
+
 ```mermaid
+classDiagram
 class Interface1
 <<Interface>> Interface1
 Interface1: +void operation1()
@@ -60,6 +88,21 @@ D: +depend5(Interface3 i)
 D ..> Interface1
 D ..> Interface3
 ```
-```java
 
-```
+### Dependence Inversion Principle 依赖反转
+1. 高层模块不应该依赖底层模块
+2. 抽象不应该依赖细节，细节应该依赖抽象
+3. 中心思想是面向接口编程（以抽象为基础搭建的架构比以细节为基础的架构要稳定得多）
+
+### 里氏替换原则
+在编程时继承的时候要注意的原则
+
+
+## Design Pattern
+- 设计模式是程序员在面对同类软件工程问题所总结出来的经验（不是代码）
+- 是某类问题的通用解决方案，design pattern代表了最佳的实践
+
+### 3 type of design pattern
+1. 创建型模式：单例模式，抽象工厂模式，原型模式（解决深拷贝问题），建造者模式，工厂模式
+2. 结构型模式：适配器，桥接，装饰，组合，外观，享元，代理
+3. 行为型模式：模板方式，命令，观察者模式，中介者模式

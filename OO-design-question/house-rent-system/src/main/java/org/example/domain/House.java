@@ -1,3 +1,5 @@
+package org.example.domain;
+
 public class House {
     private int id;
     private String name;
@@ -65,13 +67,6 @@ public class House {
 
     @Override
     public String toString() {
-        return "House{" +
-                "id=" + id +
-                ", name='" + name + '\'' +
-                ", phone='" + phone + '\'' +
-                ", address='" + address + '\'' +
-                ", rent=" + rent +
-                ", state='" + state + '\'' +
-                '}';
+        return id + "\t\t" + name + "\t\t" + phone + "\t" + address + "\t" + rent + "\t\t" + state;
     }
 }

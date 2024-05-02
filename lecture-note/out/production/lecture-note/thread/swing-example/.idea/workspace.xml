@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20d5c940-6e4b-4bf9-969c-c7abb0b72c41" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../OO-design-question/.idea/OO-design-question.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../swing-example/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../swing-example/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../swing-example/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../swing-example/.idea/swing-example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../swing-example/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../swing-example/FirstGUI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../swing-example/FirstGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../swing-example/FirstGUIExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../swing-example/out/production/swing-example/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../swing-example/out/production/swing-example/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../swing-example/out/production/swing-example/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../swing-example/out/production/swing-example/.idea/swing-example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../swing-example/out/production/swing-example/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../swing-example/out/production/swing-example/FirstGUI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../swing-example/out/production/swing-example/FirstGUIExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/lecture-note/lecture-note.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OO-design-question/elevator-system/.gradle/7.4/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../OO-design-question/elevator-system/.gradle/7.4/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OO-design-question/elevator-system/.gradle/7.4/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../OO-design-question/elevator-system/.gradle/7.4/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OO-design-question/elevator-system/.gradle/7.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../OO-design-question/elevator-system/.gradle/7.4/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OO-design-question/elevator-system/.gradle/7.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../OO-design-question/elevator-system/.gradle/7.4/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OO-design-question/elevator-system/.gradle/7.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../OO-design-question/elevator-system/.gradle/7.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OO-design-question/elevator-system/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../OO-design-question/elevator-system/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OO-design-question/elevator-system/.gradle/7.4/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../OO-design-question/elevator-system/.gradle/7.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OO-design-question/elevator-system/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../OO-design-question/elevator-system/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OO-design-question/elevator-system/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../OO-design-question/elevator-system/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OO-design-question/elevator-system/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../OO-design-question/elevator-system/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OO-design-question/elevator-system/build/classes/java/main/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OO-design-question/elevator-system/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OO-design-question/house-rent-system/.gradle/7.4/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../OO-design-question/house-rent-system/.gradle/7.4/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OO-design-question/house-rent-system/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../OO-design-question/house-rent-system/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OO-design-question/house-rent-system/src/main/java/org/example/HouseRentApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../OO-design-question/house-rent-system/src/main/java/org/example/HouseRentApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OO-design-question/house-rent-system/src/main/java/org/example/domain/House.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../OO-design-question/house-rent-system/src/main/java/org/example/domain/House.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OO-design-question/house-rent-system/src/main/java/org/example/service/HouseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../OO-design-question/house-rent-system/src/main/java/org/example/service/HouseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OO-design-question/house-rent-system/src/main/java/org/example/utils/Utility.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../OO-design-question/house-rent-system/src/main/java/org/example/utils/Utility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OO-design-question/house-rent-system/src/main/java/org/example/view/HouseView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../OO-design-question/house-rent-system/src/main/java/org/example/view/HouseView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OO-design-question/house-rent/HouseRentApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OO-design-question/house-rent/domain/House.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OO-design-question/house-rent/service/HouseService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OO-design-question/house-rent/utils/Utility.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OO-design-question/house-rent/view/HouseView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../design-pattern/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../design-pattern/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../design-pattern/command/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../design-pattern/command/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../design-pattern/factory/simplefactory/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../design-pattern/factory/simplefactory/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../design-pattern/factory/simplefactory/order/SimpleFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../design-pattern/factory/simplefactory/order/SimpleFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../design-pattern/factory/simplefactory/pizza/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../design-pattern/factory/simplefactory/pizza/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../design-pattern/singleton/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../design-pattern/singleton/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../design-pattern/strategy/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../design-pattern/strategy/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module2/Clone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module2/Clone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module2/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module2/book/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module2/book/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module3/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module3/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module3/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module3/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module3/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module3/app/src/main/java/Module3/AbstractShape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module3/app/src/main/java/Module3/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module3/app/src/main/java/Module3/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module3/app/src/main/java/Module3/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module3/app/src/main/java/Module3/Point2D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module3/app/src/main/java/Module3/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module3/app/src/main/java/Module3/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module3/app/src/main/java/Module3/TypeOfBook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module3/app/src/test/java/Module3/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module3/app/src/test/java/Module3/ShapeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module3/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module3/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module3/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module3/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module3/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module4/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4/app/src/main/java/module4/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4/app/src/main/java/module4/CalendarEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4/app/src/main/java/module4/book/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4/app/src/main/java/module4/book/ElementNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4/app/src/main/java/module4/book/EmptyNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4/app/src/main/java/module4/book/IListOfBooks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4/app/src/main/java/module4/book/util/BookBefore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4/app/src/main/java/module4/book/util/BookCmpByYear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4/app/src/main/java/module4/book/util/BookWithAuthor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4/app/src/main/java/module4/book/util/IBookPredicate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4/app/src/main/java/module4/pactice/Character.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4/app/src/main/java/module4/pactice/Warrior.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4/app/src/test/java/module4/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4/app/src/test/java/module4/ListOfBookTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stream/Pokemon.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../stream/Pokemon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stream/StreamExample03.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../stream/StreamExample03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stream/StreamExample04.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../stream/StreamExample04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../swing/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../swing/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../swing/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../swing/app/src/main/java/swing/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../swing/app/src/test/java/swing/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../swing/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../swing/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../swing/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../swing/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../swing/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../datastructure/array/ArrayExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../datastructure/array/ArrayExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../datastructure/array/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../datastructure/array/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../recursive/recursive-test/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../recursive/recursive-test/BalancedParenthesisTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../recursive/recursive-test/BinaryNumConvertTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../recursive/recursive-test/BinarySearchTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../recursive/recursive-test/CountFactorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../recursive/recursive-test/FibonacciTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../recursive/recursive-test/LinkedListNodeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../recursive/recursive-test/MergeLinkedListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../recursive/recursive-test/PowTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../recursive/recursive-test/PowerOfFourTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../recursive/recursive-test/RemoveNodeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../recursive/recursive-test/SearchValueTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../recursive/recursive-test/StringPatternTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../recursive/recursive-test/StringRemovePunctuationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../recursive/recursive/MonkeyPeach.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../recursive/recursive/MonkeyPeach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../recursive/recursive/Recursive01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../recursive/recursive/Recursive01.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2eqaONLTw0rN3vqW2Efg0z373cl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/beauwen/Desktop/Object-Oriented-Design/lecture-note/advanced/thread/swing-example",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="FirstGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FirstGUI" />
+      <module name="swing-example" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FirstGUI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20d5c940-6e4b-4bf9-969c-c7abb0b72c41" name="Changes" comment="" />
+      <created>1712634528689</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712634528689</updated>
+      <workItem from="1712634530139" duration="207000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

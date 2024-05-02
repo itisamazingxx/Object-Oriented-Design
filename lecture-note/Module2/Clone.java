@@ -15,7 +15,7 @@ class Person {
 
 class MyTool {
     public Person copyPerson(Person p) {
-        p2 = new Person();
+        Person p2 = new Person();
         p2.name = p.name;
         p2.age = p.age;
         return p2;

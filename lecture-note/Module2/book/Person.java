@@ -12,13 +12,13 @@ public class Person {
 
     private String firstName;
     private String lastName;
-    private int yearOfBirth;
+    private int age;
 
     public Person(String firstName, String lastName, int yearOfBirth) {
 
         this.firstName = firstName;
         this.lastName = lastName;
-        this.yearOfBirth = yearOfBirth;
+        this.age = yearOfBirth;
 
     }
 
@@ -26,12 +26,8 @@ public class Person {
         return this.firstName;
     }
 
-    public int getYearOfBirth() {
-        return this.yearOfBirth;
-    }
-    
     public int getAge() {
-        return 2023 - this.yearOfBirth;
+        return this.age;
     }
     
     public String getFullName() {
@@ -48,7 +44,7 @@ public class Person {
     public boolean samePerson(Person other) {
         return this.firstName.equals(other.firstName)
         && this.lastName.equals(other.lastName)
-        && this.yearOfBirth == other.yearOfBirth;
+        && this.age == other.age;
     }
 
 }

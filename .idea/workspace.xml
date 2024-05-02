@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2c4531c6-9d3f-41de-93a7-73c0cc206bfe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/OO-design-question/.idea/OO-design-question.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture-note/advanced/swing-example/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture-note/advanced/swing-example/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture-note/advanced/swing-example/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture-note/advanced/swing-example/.idea/swing-example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture-note/advanced/swing-example/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture-note/advanced/swing-example/FirstGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture-note/advanced/swing-example/TextField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture-note/advanced/swing-example/UserInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture-note/advanced/swing-example/out/production/swing-example/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture-note/advanced/swing-example/out/production/swing-example/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture-note/advanced/swing-example/out/production/swing-example/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture-note/advanced/swing-example/out/production/swing-example/.idea/swing-example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture-note/advanced/swing-example/out/production/swing-example/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture-note/advanced/swing-example/out/production/swing-example/FirstGUI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture-note/advanced/swing-example/out/production/swing-example/FirstGUIExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture-note/out/production/lecture-note/lecture-note.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture-note/part1/object/Object_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture-note/part1/polymorphism/PolyExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture-note/part1/polymorphism/PolyExample02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture-note/part1/polymorphism/PolyExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO-design-question/elevator-system/.gradle/7.4/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/elevator-system/.gradle/7.4/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO-design-question/elevator-system/.gradle/7.4/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/elevator-system/.gradle/7.4/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO-design-question/elevator-system/.gradle/7.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/elevator-system/.gradle/7.4/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO-design-question/elevator-system/.gradle/7.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/elevator-system/.gradle/7.4/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO-design-question/elevator-system/.gradle/7.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/elevator-system/.gradle/7.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO-design-question/elevator-system/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/elevator-system/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO-design-question/elevator-system/.gradle/7.4/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/elevator-system/.gradle/7.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO-design-question/elevator-system/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/elevator-system/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO-design-question/elevator-system/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/elevator-system/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO-design-question/elevator-system/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/elevator-system/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO-design-question/elevator-system/build/classes/java/main/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO-design-question/elevator-system/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO-design-question/house-rent-system/.gradle/7.4/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/house-rent-system/.gradle/7.4/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO-design-question/house-rent-system/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/house-rent-system/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO-design-question/house-rent-system/src/main/java/org/example/HouseRentApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/house-rent-system/src/main/java/org/example/HouseRentApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO-design-question/house-rent-system/src/main/java/org/example/domain/House.java" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/house-rent-system/src/main/java/org/example/domain/House.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO-design-question/house-rent-system/src/main/java/org/example/service/HouseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/house-rent-system/src/main/java/org/example/service/HouseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO-design-question/house-rent-system/src/main/java/org/example/utils/Utility.java" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/house-rent-system/src/main/java/org/example/utils/Utility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO-design-question/house-rent-system/src/main/java/org/example/view/HouseView.java" beforeDir="false" afterPath="$PROJECT_DIR$/OO-design-question/house-rent-system/src/main/java/org/example/view/HouseView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO-design-question/house-rent/HouseRentApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO-design-question/house-rent/domain/House.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO-design-question/house-rent/service/HouseService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO-design-question/house-rent/utils/Utility.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO-design-question/house-rent/view/HouseView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/command/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/command/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/factory/simplefactory/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/factory/simplefactory/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/factory/simplefactory/order/SimpleFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/factory/simplefactory/order/SimpleFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/factory/simplefactory/pizza/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/factory/simplefactory/pizza/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/singleton/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/singleton/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/strategy/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/strategy/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/Module2/Clone.java" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module2/Clone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/Module2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module2/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/Module2/book/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module2/book/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/Module3/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/Module3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/Module3/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/Module3/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/Module3/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/Module3/app/src/main/java/Module3/AbstractShape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/Module3/app/src/main/java/Module3/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/Module3/app/src/main/java/Module3/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/Module3/app/src/main/java/Module3/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/Module3/app/src/main/java/Module3/Point2D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/Module3/app/src/main/java/Module3/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/Module3/app/src/main/java/Module3/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/Module3/app/src/main/java/Module3/TypeOfBook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/Module3/app/src/test/java/Module3/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/Module3/app/src/test/java/Module3/ShapeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/Module3/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/Module3/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/Module3/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/Module3/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/Module3/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/Module4/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/Module4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/Module4/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/Module4/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/Module4/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/Module4/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/Module4/app/src/main/java/module4/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/Module4/app/src/main/java/module4/CalendarEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/Module4/app/src/main/java/module4/book/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/Module4/app/src/main/java/module4/book/ElementNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/Module4/app/src/main/java/module4/book/EmptyNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/Module4/app/src/main/java/module4/book/IListOfBooks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/Module4/app/src/main/java/module4/book/util/BookBefore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/Module4/app/src/main/java/module4/book/util/BookCmpByYear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/Module4/app/src/main/java/module4/book/util/BookWithAuthor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/Module4/app/src/main/java/module4/book/util/IBookPredicate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/Module4/app/src/main/java/module4/pactice/Character.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/Module4/app/src/main/java/module4/pactice/Warrior.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/Module4/app/src/test/java/module4/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/Module4/app/src/test/java/module4/ListOfBookTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/Module4/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/Module4/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/Module4/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/Module4/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/Module4/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/advanced/stream/Pokemon.class" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/advanced/stream/Pokemon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/advanced/stream/StreamExample03.class" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/advanced/stream/StreamExample03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/advanced/stream/StreamExample04.java" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/advanced/stream/StreamExample04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/advanced/swing/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/advanced/swing/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/advanced/swing/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/advanced/swing/app/src/main/java/swing/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/advanced/swing/app/src/test/java/swing/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/advanced/swing/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/advanced/swing/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/advanced/swing/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/advanced/swing/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/advanced/swing/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/datastructure/array/ArrayExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/datastructure/array/ArrayExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-note/datastructure/array/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-note/datastructure/array/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/recursive-test/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/recursive-test/BalancedParenthesisTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/recursive-test/BinaryNumConvertTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/recursive-test/BinarySearchTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/recursive-test/CountFactorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/recursive-test/FibonacciTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/recursive-test/LinkedListNodeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/recursive-test/MergeLinkedListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/recursive-test/PowTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/recursive-test/PowerOfFourTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/recursive-test/RemoveNodeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/recursive-test/SearchValueTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/recursive-test/StringPatternTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/recursive-test/StringRemovePunctuationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/recursive/MonkeyPeach.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursive/recursive/MonkeyPeach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/recursive/Recursive01.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursive/recursive/Recursive01.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2dIXQbwjGDzkT44K9AaJf7sW1re" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/beauwen/Desktop/Object-Oriented-Design&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/design-pattern/factory/simple-factory/order" />
+      <recent name="$PROJECT_DIR$/design-pattern/factory/simple-factory" />
+      <recent name="$PROJECT_DIR$/design-pattern/factory/simple-factory/pizza" />
+      <recent name="$PROJECT_DIR$/lecture-note/Module2" />
+      <recent name="$PROJECT_DIR$/OO-design-question" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DjangoTestsConfigurationType">
+      <module name="Object-Oriented-Design" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Object-Oriented-Design" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Object-Oriented-Design" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <module name="Object-Oriented-Design" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Object-Oriented-Design" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.FlaskServer">
+      <module name="Object-Oriented-Design" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="Object-Oriented-Design" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c4531c6-9d3f-41de-93a7-73c0cc206bfe" name="Changes" comment="" />
+      <created>1709696552889</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709696552889</updated>
+      <workItem from="1709696559913" duration="112000" />
+      <workItem from="1709696724336" duration="32661000" />
+      <workItem from="1710481414572" duration="35000" />
+      <workItem from="1711136148400" duration="52000" />
+      <workItem from="1711838211410" duration="28000" />
+      <workItem from="1711939817030" duration="34000" />
+      <workItem from="1712207464176" duration="18000" />
+      <workItem from="1712736268641" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

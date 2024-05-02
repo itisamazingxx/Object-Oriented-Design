@@ -1,8 +1,11 @@
 package factory.simplefactory.order;
-import factory.simplefactory.pizza.Pizza;
 import factory.simplefactory.pizza.GreekPizza;
+import factory.simplefactory.pizza.Pizza;
 import factory.simplefactory.pizza.CheesePizza;
-
+/**
+ * 把创建Pizza对象封装到一个类中
+ * 根据order type返回对应的pizza实例
+ */
 public class SimpleFactory {
     // When creating new type, increase order type
     public Pizza createPizza(String type) {

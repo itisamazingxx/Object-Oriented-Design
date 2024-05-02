@@ -1,9 +1,9 @@
 package factory.simplefactory.pizza;
+
 public abstract class Pizza {
     protected String name;
 
     public abstract void prepare();
-
     public void bake() {
         System.out.println(name + " baking...");
     }

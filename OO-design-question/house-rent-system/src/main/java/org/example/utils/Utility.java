@@ -1,3 +1,7 @@
+package org.example.utils;
+
+import java.util.Scanner;
+
 public class Utility {
     private static Scanner scanner = new Scanner(System.in);
 
@@ -107,7 +111,7 @@ public class Utility {
      * @return Y或N
      */
     public static char readConfirmSelection() {
-        System.out.println("请输入你的选择(Y/N): 请小心选择");
+        System.out.print("Please enter y/n to confirm: ");
         char c;
         for (; ; ) {//无限循环
             //在这里，将接受到字符，转成了大写字母
@@ -120,6 +124,7 @@ public class Utility {
                 System.out.print("选择错误，请重新输入：");
             }
         }
+        System.out.println(c);
         return c;
     }
 

@@ -1,5 +1,7 @@
 ## Singleton Design Pattern
 
+单例设计模式是静态方法和属性的经典适用场景
+
 This pattern employs a specific approach to ensure that within the entire software system, there can only be one instance of a particular class. Additionally, this class provides a single method to acquire its object instance.
 
 **Resource Sharing**: In some cases, repeated creation and destruction of specific resources, such as database connection pools or thread pools, may lead to performance issues or resource wastage. The singleton pattern ensures that these resources are created only once and shared throughout the lifecycle of the application.
